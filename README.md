@@ -50,9 +50,9 @@ endmodule
 
 
 
-Developed by:Hariharan Ganesh
+Developed by:Ajairaj j
 
-RegisterNumber:212225040111
+RegisterNumber:212225220004
 
 
 **RTL realization**
